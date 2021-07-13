@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **Web projects with MERN.**
+- 👯 I’m looking to collaborate on built **Web projects using MERN.**
 
 - 📫 How to reach me **mkaanerinc@gmail.com**
 
