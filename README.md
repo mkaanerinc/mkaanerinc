@@ -3,7 +3,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently looking for job as a **Full Stack Developer.**
+- 🔭 I’m currently looking for job as a **Full Stack Developer / Back-End Developer.**
 
 - 🌱 I’m currently learning **React, Data Structures and Algorithms.**
 
