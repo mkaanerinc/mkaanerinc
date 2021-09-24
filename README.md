@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for job as a **Back-End Developer.**
 
-- 🌱 I’m currently learning **React, .NET, Data Structures and Algorithms.**
+- 🌱 I’m currently learning **.NET, Data Structures and Algorithms.**
 
 - 📫 How to reach me **mkaanerinc@gmail.com**
 
