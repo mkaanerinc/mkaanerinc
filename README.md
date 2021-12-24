@@ -10,7 +10,7 @@
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently looking for job as a .NET Developer.
-- 🌱 I’m currently learning .Net, Data Structures and Algorithms. ☕
+- 🌱 I’m currently learning .NET, Data Structures and Algorithms. ☕
 - 👯 I’m looking to collaborate on making projects with Web API or ASP.NET CORE MVC.
 
 <details>
