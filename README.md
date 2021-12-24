@@ -37,7 +37,11 @@
 ### 🚀 Quick Stats
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkaanerinc&show_icons=true&line_height=21&theme=react" alt="mkaanerinc's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkaanerinc&theme=react&line_height=27&layout=compact" alt="mkaanerinc's Github Stats" />
+<img width="50%" height="150" src="https://github-readme-stats.vercel.app/api?username=mkaanerinc&show_icons=true&line_height=21&theme=react" alt="mkaanerinc's Github Stats" />
+<img width="35%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkaanerinc&theme=react&line_height=27&layout=compact" alt="mkaanerinc's Github Stats" />
+    
+ <hr></hr>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
 </p>
 
