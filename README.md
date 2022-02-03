@@ -9,7 +9,7 @@
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently looking for job as a .NET Developer.
+- 🔭 I’m currently looking for job as a Software Developer.
 - 🌱 I’m currently learning Data Structures and Algorithms. ☕
 - 👯 I’m looking to collaborate on making projects with Web API or Angular.
 
@@ -26,8 +26,8 @@
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)&nbsp;
-  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)&nbsp;
+  ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)&nbsp;
   ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)&nbsp;
   ![Git](https://img.shields.io/badge/Git-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
