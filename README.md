@@ -45,6 +45,19 @@
     
  <hr></hr>
 
+<br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
+
+<details>
+<summary> 💥 Working on </summary>
+
 </p>
+
+<a href="https://github.com/mkaanerinc/ReCapProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkaanerinc&repo=ReCapProject&show_owner=true&theme=react" />
+</a>
+<a href="https://github.com/mkaanerinc/FinalProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkaanerinc&repo=FinalProject&show_owner=true&theme=react" />
+</a>
+</details>
 
