@@ -55,7 +55,9 @@
 
 </p>
 
-
+<a href="https://github.com/mkaanerinc/CarRentalProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkaanerinc&repo=CarRentalProject&show_owner=true&theme=react" />
+</a>
 <a href="https://github.com/mkaanerinc/FinalProject">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkaanerinc&repo=FinalProject&show_owner=true&theme=react" />
 </a>
