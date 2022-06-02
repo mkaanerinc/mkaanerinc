@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mkaanerinc@gmail.com)](mailto:mkaanerinc@gmail.com)
 
 #### 📬 Check out my resume
-[![Resume Badge](https://img.shields.io/badge/-Resume-d14836?style=flat&logo=Resume&logoColor=white&link=[mailto:mkaanerinc@gmail.com](https://drive.google.com/file/d/1MEVfqX8vXZ_kg5IQV_M6QyuXtkK5obsi/view?usp=sharing))]([mailto:mkaanerinc@gmail.com](https://drive.google.com/file/d/1MEVfqX8vXZ_kg5IQV_M6QyuXtkK5obsi/view?usp=sharing))
+[![Resume Badge](https://img.shields.io/badge/-Resume-d14836?style=flat&logo=Resume&logoColor=white&link=https://drive.google.com/file/d/1MEVfqX8vXZ_kg5IQV_M6QyuXtkK5obsi/view?usp=sharing)](https://drive.google.com/file/d/1MEVfqX8vXZ_kg5IQV_M6QyuXtkK5obsi/view?usp=sharing)
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently looking for job as a Software Developer.
