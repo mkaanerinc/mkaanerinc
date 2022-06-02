@@ -7,6 +7,8 @@
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/mkaanerinc)](https://www.hackerrank.com/mkaanerinc)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mkaanerinc@gmail.com)](mailto:mkaanerinc@gmail.com)
 
+#### 📬 Check out my resume
+[![Resume Badge](https://img.shields.io/badge/-Resume-d14836?style=flat&logo=Resume&logoColor=white&link=[mailto:mkaanerinc@gmail.com](https://drive.google.com/file/d/1MEVfqX8vXZ_kg5IQV_M6QyuXtkK5obsi/view?usp=sharing))]([mailto:mkaanerinc@gmail.com](https://drive.google.com/file/d/1MEVfqX8vXZ_kg5IQV_M6QyuXtkK5obsi/view?usp=sharing))
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently looking for job as a Software Developer.
@@ -24,14 +26,13 @@
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)&nbsp;
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
   ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white)&nbsp;
-  ![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=flat&logo=oracle&logoColor=white)&nbsp;
+  ![Unit Test](https://img.shields.io/badge/Unit%20Test-F80000?style=flat&logo=unittest&logoColor=white)&nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)&nbsp;
   ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)&nbsp;
-  ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)&nbsp;
   ![Git](https://img.shields.io/badge/Git-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)&nbsp;
