@@ -12,7 +12,7 @@
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently looking for job as a Software Developer.
-- 🌱 I’m currently learning Data Structures and Algorithms. ☕
+- 🌱 I’m currently learning Redis and ASP.NET CORE MVC. ☕
 - 👯 I’m looking to collaborate on making projects with Web API or Angular.
 
 <details>
