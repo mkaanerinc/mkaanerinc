@@ -8,12 +8,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mkaanerinc@gmail.com)](mailto:mkaanerinc@gmail.com)
 
 #### 📬 Check out my resume
-[![Resume Badge](https://img.shields.io/badge/-Resume-d14836?style=flat&logo=Resume&logoColor=white&link=https://drive.google.com/file/d/1MEVfqX8vXZ_kg5IQV_M6QyuXtkK5obsi/view?usp=sharing)](https://drive.google.com/file/d/1MEVfqX8vXZ_kg5IQV_M6QyuXtkK5obsi/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/-Resume-d14836?style=flat&logo=Resume&logoColor=white&link=https://drive.google.com/file/d/16ojUkPLv8hgNdbSap4OPYA-mQ6VohDaG/view?usp=sharing)](https://drive.google.com/file/d/16ojUkPLv8hgNdbSap4OPYA-mQ6VohDaG/view?usp=sharing)
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently looking for job as a Software Developer.
 - 🌱 I’m currently learning Redis, RabbitMQ. ☕
-- 👯 I’m looking to collaborate on making projects with Web API, ASP .NET CORE MVC or Angular.
+- 👯 I’m looking to collaborate on making projects with Web API, ASP.NET CORE MVC or Angular.
 
 <details>
     <summary>Some more stuff 😄</summary>
@@ -22,7 +22,7 @@
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)&nbsp;
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)&nbsp;
   ![Web API](https://img.shields.io/badge/Web%20API-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
-  ![ASP .NET CORE MVC](https://img.shields.io/badge/ASP%20.NET%20CORE%20MVC-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
+  ![ASP.NET CORE MVC](https://img.shields.io/badge/ASP.NET%20CORE%20MVC-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
   ![Unit Test](https://img.shields.io/badge/Unit%20Test-F80000?style=flat&logo=unittest&logoColor=white)&nbsp;
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
