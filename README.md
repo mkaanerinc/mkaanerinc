@@ -12,8 +12,8 @@
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently looking for job as a Software Developer.
-- 🌱 I’m currently learning Redis and ASP.NET CORE MVC. ☕
-- 👯 I’m looking to collaborate on making projects with Web API or Angular.
+- 🌱 I’m currently learning Redis, RabbitMQ. ☕
+- 👯 I’m looking to collaborate on making projects with Web API, ASP .NET CORE MVC or Angular.
 
 <details>
     <summary>Some more stuff 😄</summary>
@@ -21,12 +21,11 @@
   ### ⚙️ Some Tool and Tech I use
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)&nbsp;
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)&nbsp;
-  ![REST API](https://img.shields.io/badge/REST%20API-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
-  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)&nbsp;
+  ![Web API](https://img.shields.io/badge/Web%20API-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
+  ![ASP .NET CORE MVC](https://img.shields.io/badge/ASP%20.NET%20CORE%20MVC-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-  ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white)&nbsp;
   ![Unit Test](https://img.shields.io/badge/Unit%20Test-F80000?style=flat&logo=unittest&logoColor=white)&nbsp;
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
