@@ -8,12 +8,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mkaanerinc@gmail.com)](mailto:mkaanerinc@gmail.com)
 
 #### 📬 Check out my resume
-[![Resume Badge](https://img.shields.io/badge/-Resume-d14836?style=flat&logo=Resume&logoColor=white&link=https://drive.google.com/file/d/16ojUkPLv8hgNdbSap4OPYA-mQ6VohDaG/view?usp=sharing)](https://drive.google.com/file/d/16ojUkPLv8hgNdbSap4OPYA-mQ6VohDaG/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/-Resume-d14836?style=flat&logo=Resume&logoColor=white&link=https://drive.google.com/file/d/12sh3PhnoLmiq8eV27HZu8-ysNy7VHnZD/view?usp=sharing)](https://drive.google.com/file/d/12sh3PhnoLmiq8eV27HZu8-ysNy7VHnZD/view?usp=sharing)
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently looking for job as a Software Developer.
+- 🔭 I’m currently looking for a job as a Software Developer.
 - 🌱 I’m currently learning Redis, RabbitMQ. ☕
-- 👯 I’m looking to collaborate on making projects with Web API, ASP.NET CORE MVC or Angular.
+- 👯 I’m looking to collaborate on making projects with Web API and Angular.
 
 <details>
     <summary>Some more stuff 😄</summary>
@@ -55,11 +55,8 @@
 
 </p>
 
-<a href="https://github.com/mkaanerinc/CarRentalProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkaanerinc&repo=CarRentalProject&show_owner=true&theme=react" />
-</a>
-<a href="https://github.com/mkaanerinc/eTickets">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkaanerinc&repo=eTickets&show_owner=true&theme=react" />
+<a href="https://github.com/mkaanerinc/RentACarProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkaanerinc&repo=RentACarProject&show_owner=true&theme=react" />
 </a>
 </details>
 
