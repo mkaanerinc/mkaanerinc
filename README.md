@@ -12,7 +12,7 @@
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently looking for a job as a Software Developer.
-- 🌱 I’m currently learning Redis, RabbitMQ, T-SQL. ☕
+- 🌱 I’m currently learning Redis, RabbitMQ, Docker. ☕
 - 👯 I’m looking to collaborate on making projects with ASP.NET CORE Web API / MVC and Angular.
 
 <details>
