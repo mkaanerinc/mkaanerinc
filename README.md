@@ -8,11 +8,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mkaanerinc@gmail.com)](mailto:mkaanerinc@gmail.com)
 
 #### 📬 Check out my resume
-[![Resume Badge](https://img.shields.io/badge/-Resume-d14836?style=flat&logo=Resume&logoColor=white&link=https://drive.google.com/file/d/12sh3PhnoLmiq8eV27HZu8-ysNy7VHnZD/view?usp=sharing)](https://drive.google.com/file/d/12sh3PhnoLmiq8eV27HZu8-ysNy7VHnZD/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/-Resume-d14836?style=flat&logo=Resume&logoColor=white&link=https://drive.google.com/file/d/1dt2uoDLV6_z6Ic2LT2lWqzxQO75YkBWv/view?usp=sharing)](https://drive.google.com/file/d/1dt2uoDLV6_z6Ic2LT2lWqzxQO75YkBWv/view?usp=sharing)
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently looking for a job as a Software Developer.
-- 🌱 I’m currently learning Redis, RabbitMQ, Docker. ☕
+- 🌱 I’m currently learning Redis, RabbitMQ, SignalR. ☕
 - 👯 I’m looking to collaborate on making projects with ASP.NET CORE Web API / MVC and Angular.
 
 <details>
@@ -21,18 +21,21 @@
   ### ⚙️ Some Tool and Tech I use
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)&nbsp;
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)&nbsp;
-  ![Web API](https://img.shields.io/badge/Web%20API-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
+  ![ASP.NET CORE Web API](https://img.shields.io/badge/ASP.NET%20CORE%20Web%20API-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
   ![ASP.NET CORE MVC](https://img.shields.io/badge/ASP.NET%20CORE%20MVC-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
+  ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)&nbsp;
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
+  ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
+  ![Generic Repository Pattern](https://img.shields.io/badge/Generic%20Repository%20Pattern-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
   ![Unit Test](https://img.shields.io/badge/Unit%20Test-F80000?style=flat&logo=unittest&logoColor=white)&nbsp;
+  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)&nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)&nbsp;
-  ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)&nbsp;
+  ![jQuery](https://img.shields.io/badge/jQuery-%23563D7C.svg?style=flat&logo=jquery&logoColor=white)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)&nbsp;
-  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)&nbsp;
   ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
