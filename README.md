@@ -52,10 +52,10 @@ I'm a **Software Developer** with experience working on web applications and pro
 ## 💥 Working on
 
 <p align="center">
-<a href="https://github.com/mkaanerinc/RentACarProject">
+<a href="https://github.com/mkaanerinc/RentACar-with-Clean-Architecture">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkaanerinc&repo=RentACar-with-Clean-Architecture&show_owner=true&theme=react" alt="mkaanerinc's working on project"/>
 </a>
-<a href="https://github.com/mkaanerinc/RentACarProject">
+<a href="https://github.com/mkaanerinc/RentACar-Core.Packages">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkaanerinc&repo=RentACar-Core.Packages&show_owner=true&theme=react" alt="mkaanerinc's working on project"/>
 </a>
 <br></br>
