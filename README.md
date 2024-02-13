@@ -9,16 +9,16 @@ I'm a **Software Developer** with experience working on web applications and pro
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mkaanerinc/)](https://www.linkedin.com/in/mkaanerinc)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/mkaanerinc)](https://www.hackerrank.com/mkaanerinc)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mkaanerinc@gmail.com)](mailto:mkaanerinc@gmail.com)
-[![Resume Badge](https://img.shields.io/badge/-Resume-d14836?style=for-the-badge&logo=Resume&logoColor=white&link=https://drive.google.com/file/d/1-SNaM6epquq-qMDQhwKGUfnK02rlox0e/view?usp=sharing)](https://drive.google.com/file/d/1-SNaM6epquq-qMDQhwKGUfnK02rlox0e/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/-Resume-d14836?style=for-the-badge&logo=Resume&logoColor=white&link=https://drive.google.com/file/d/1hL6DNCPQsAB-R0wVLckbKBcoliFRkazi/view?usp=sharing)](https://drive.google.com/file/d/1hL6DNCPQsAB-R0wVLckbKBcoliFRkazi/view?usp=sharing)
 <br></br>
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently looking for a job as a **Software Developer**.
-- 🌱 I’m currently learning **Docker** and **T-SQL**. ☕
+- 🌱 I’m currently learning **SignalR** and **T-SQL**. ☕
 - 👯 I’m looking to collaborate on making projects with **ASP.NET CORE Web API / MVC and Angular**.
 <br></br>
  ## ⚙️ Some Tool and Tech I use
-  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
   ![ASP.NET CORE Web API](https://img.shields.io/badge/ASP.NET%20CORE%20Web%20API-02569B.svg?&style=for-the-badge&logo=rest&logoColor=white)&nbsp;
@@ -29,12 +29,13 @@ I'm a **Software Developer** with experience working on web applications and pro
   ![FluentValidation](https://img.shields.io/badge/FluentValidation-F80000?style=for-the-badge&logo=fluentvalidation&logoColor=white)&nbsp;
   ![AutoMapper](https://img.shields.io/badge/AutoMapper-F80000?style=for-the-badge&logo=automapper&logoColor=white)&nbsp;
   ![Serilog](https://img.shields.io/badge/Serilog-F80000?style=for-the-badge&logo=serilog&logoColor=white)&nbsp;
-  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-F80000?style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
+  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
+  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
   ![MediatR](https://img.shields.io/badge/MediatR-F80000?style=for-the-badge&logo=mediatr&logoColor=white)&nbsp;
   ![Hangfire](https://img.shields.io/badge/Hangfire-F80000?style=for-the-badge&logo=hangfire&logoColor=white)&nbsp;
   ![Redis](https://img.shields.io/badge/Redis-F80000?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
   ![xUnit](https://img.shields.io/badge/xUnit-F80000?style=for-the-badge&logo=xunit&logoColor=white)&nbsp;
-  ![JWT](https://img.shields.io/badge/JWT-F80000?style=for-the-badge&logo=jwt&logoColor=white)&nbsp;
+  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)&nbsp;
   ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
