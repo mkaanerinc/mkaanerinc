@@ -8,7 +8,7 @@ I'm a **Software Developer** with experience working on web applications and pro
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mkaanerinc/)](https://www.linkedin.com/in/mkaanerinc)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/mkaanerinc)](https://www.hackerrank.com/mkaanerinc)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mkaanerinc@gmail.com)](mailto:mkaanerinc@gmail.com)
-[![Resume Badge](https://img.shields.io/badge/-Resume-d14836?style=flat&logo=Resume&logoColor=white&link=https://drive.google.com/file/d/1hL6DNCPQsAB-R0wVLckbKBcoliFRkazi/view?usp=sharing)](https://drive.google.com/file/d/1hL6DNCPQsAB-R0wVLckbKBcoliFRkazi/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/-Resume-d14836?style=flat&logo=Resume&logoColor=white&link=https://drive.google.com/file/d/1RJN0Om9QCHOP4fqJr1dZd7sFYBrSq_nE/view?usp=sharing)](https://drive.google.com/file/d/1RJN0Om9QCHOP4fqJr1dZd7sFYBrSq_nE/view?usp=sharing)
 <br></br>
 ### ⚡️ A Few Quick Facts
 
@@ -38,10 +38,6 @@ I'm a **Software Developer** with experience working on web applications and pro
   ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)&nbsp;
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)&nbsp;
 <br></br>
-### 🚀 Quick Stats
-<p align="center">
-<img width="40%" height="150" src="https://github-readme-stats.vercel.app/api?username=mkaanerinc&show_icons=true&line_height=21&theme=react" alt="mkaanerinc's Github Stats" />
-<img width="33%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkaanerinc&theme=react&line_height=27&layout=compact" alt="mkaanerinc's Github Stats" /> 
 
 ### 💥 Working on
 <p align="center">
