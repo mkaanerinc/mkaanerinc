@@ -8,20 +8,20 @@ I'm a **Software Developer** with experience working on web applications and pro
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mkaanerinc/)](https://www.linkedin.com/in/mkaanerinc)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/mkaanerinc)](https://www.hackerrank.com/mkaanerinc)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mkaanerinc@gmail.com)](mailto:mkaanerinc@gmail.com)
-[![Resume Badge](https://img.shields.io/badge/-Resume-d14836?style=flat&logo=Resume&logoColor=white&link=https://drive.google.com/file/d/1RJN0Om9QCHOP4fqJr1dZd7sFYBrSq_nE/view?usp=sharing)](https://drive.google.com/file/d/1RJN0Om9QCHOP4fqJr1dZd7sFYBrSq_nE/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/-Resume-d14836?style=flat&logo=Resume&logoColor=white&link=https://drive.google.com/file/d/1geNALQkSWva3BIcAD-JzEsq74JgONxW1/view?usp=sharing)](https://drive.google.com/file/d/1geNALQkSWva3BIcAD-JzEsq74JgONxW1/view?usp=sharing)
 <br></br>
 ### ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently looking for a job as a **Software Developer**.
-- 🌱 I’m currently learning **SignalR** and **T-SQL**. ☕
-- 👯 I’m looking to collaborate on making projects with **ASP.NET CORE Web API / MVC and Angular**.
+- 🌱 I’m currently learning **Elasticsearch** and **T-SQL**. ☕
+- 👯 I’m looking to collaborate on making projects with **ASP.NET Web API / MVC and Angular**.
 <br></br>
  ### ⚙️ Some Tool and Tech I use
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)&nbsp;
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)&nbsp;
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-  ![ASP.NET CORE Web API](https://img.shields.io/badge/ASP.NET%20CORE%20Web%20API-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
-  ![ASP.NET CORE MVC](https://img.shields.io/badge/ASP.NET%20CORE%20MVC-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
+  ![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
+  ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
   ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
   ![N-Tier Architecture](https://img.shields.io/badge/N%20Tier%20Architecture-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
   ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
@@ -32,6 +32,7 @@ I'm a **Software Developer** with experience working on web applications and pro
   ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)&nbsp;
   ![MediatR](https://img.shields.io/badge/MediatR-F80000?style=flat&logo=mediatr&logoColor=white)&nbsp;
   ![Hangfire](https://img.shields.io/badge/Hangfire-F80000?style=flat&logo=hangfire&logoColor=white)&nbsp;
+  ![SignalR](https://img.shields.io/badge/SignalR-F80000?style=flat&logo=signalr&logoColor=white)&nbsp;
   ![Redis](https://img.shields.io/badge/Redis-F80000?style=flat&logo=redis&logoColor=white)&nbsp;
   ![xUnit](https://img.shields.io/badge/xUnit-F80000?style=flat&logo=xunit&logoColor=white)&nbsp;
   ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)&nbsp;
