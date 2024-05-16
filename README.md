@@ -8,7 +8,7 @@ I'm a **Software Developer** with experience working on web applications and pro
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mkaanerinc/)](https://www.linkedin.com/in/mkaanerinc)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/mkaanerinc)](https://www.hackerrank.com/mkaanerinc)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mkaanerinc@gmail.com)](mailto:mkaanerinc@gmail.com)
-[![Resume Badge](https://img.shields.io/badge/-Resume-d14836?style=flat&logo=Resume&logoColor=white&link=https://drive.google.com/file/d/1sxZ2lNjOnFgKdsJcUqxuGXJDVSG5_O_a/view?usp=sharing)](https://drive.google.com/file/d/1sxZ2lNjOnFgKdsJcUqxuGXJDVSG5_O_a/view?usp=sharing) 
+[![Resume Badge](https://img.shields.io/badge/-Resume-d14836?style=flat&logo=Resume&logoColor=white&link=https://drive.google.com/file/d/1Sn3am7J6zdxuEF2I_-LOQsCrZEYUPhrM/view?usp=sharing)](https://drive.google.com/file/d/1Sn3am7J6zdxuEF2I_-LOQsCrZEYUPhrM/view?usp=sharing)
 <br></br>
 ### ⚡️ A Few Quick Facts
 
