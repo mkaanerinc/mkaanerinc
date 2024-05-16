@@ -8,13 +8,13 @@ I'm a **Software Developer** with experience working on web applications and pro
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mkaanerinc/)](https://www.linkedin.com/in/mkaanerinc)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/mkaanerinc)](https://www.hackerrank.com/mkaanerinc)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mkaanerinc@gmail.com)](mailto:mkaanerinc@gmail.com)
-[![Resume Badge](https://img.shields.io/badge/-Resume-d14836?style=flat&logo=Resume&logoColor=white&link=https://drive.google.com/file/d/1geNALQkSWva3BIcAD-JzEsq74JgONxW1/view?usp=sharing)](https://drive.google.com/file/d/1geNALQkSWva3BIcAD-JzEsq74JgONxW1/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/-Resume-d14836?style=flat&logo=Resume&logoColor=white&link=https://drive.google.com/file/d/1OUwfmMYZFHgM4PtwEMr9xCRmZff2FSQw/view?usp=sharing)](https://drive.google.com/file/d/1OUwfmMYZFHgM4PtwEMr9xCRmZff2FSQw/view?usp=sharing)
 <br></br>
 ### ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently looking for a job as a **Software Developer**.
-- 🌱 I’m currently learning **Elasticsearch** and **T-SQL**. ☕
-- 👯 I’m looking to collaborate on making projects with **ASP.NET Web API / MVC and Angular**.
+- 🌱 I’m currently learning **T-SQL**. ☕
+- 👯 I’m looking to collaborate on building projects with **.NET Web API and .NET MVC**.
 <br></br>
  ### ⚙️ Some Tool and Tech I use
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)&nbsp;
