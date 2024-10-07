@@ -1,4 +1,4 @@
-## Hello there, I am Mustafa Kaan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+## Hello there, I am Mustafa Kaan
 
 &nbsp;I'm a **Software Developer** with experience working on web applications and projects with a variety of coding languages, frameworks, and technologies. A **good communicator** and **team player**. **Curious** and **self-motivated**. My most significant asset is my enthusiasm for software development and the sector I have embraced. Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
 
