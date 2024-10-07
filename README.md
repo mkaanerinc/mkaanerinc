@@ -1,7 +1,6 @@
 ## Hello there, I am Mustafa Kaan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
 &nbsp;I'm a **Software Developer** with experience working on web applications and projects with a variety of coding languages, frameworks, and technologies. A **good communicator** and **team player**. **Curious** and **self-motivated**. My most significant asset is my enthusiasm for software development and the sector I have embraced. Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
-<img align="right" src="https://drive.google.com/uc?id=1NU1xXSu9i_CMg1BNA5jwVtxnQoRq9f5N" width='280' alt="mkaanerinc's image"/>
 
 ### 📬 Find me at
 
@@ -32,6 +31,3 @@
 <a href="https://github.com/mkaanerinc/DemoMicroservices">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkaanerinc&repo=DemoMicroservices&show_owner=true&theme=react" alt="mkaanerinc's working on project"/>
 </a>
-<p align="center">
-<br>
-<sup><a href="https://www.freepik.com/free-vector/code-typing-concept-illustration_10259340.htm#page=2&position=20&from_view=author&uuid=a3f4a5d3-58c4-4fa2-8df8-d9a1ff853fd0">Image by storyset</a> on Freepik</sup>
