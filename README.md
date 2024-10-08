@@ -11,12 +11,12 @@
 ### ⚡️ A Few Quick Facts
 
 &nbsp;&nbsp;🔭 I’m currently looking for a job as a **Software Developer**.<br>
-&nbsp;&nbsp;🌱 I’m currently learning **Microservices and Elasticsearch**. ☕<br>
-&nbsp;&nbsp;👯 I’m looking to collaborate on building projects with **.NET Web API and .NET MVC**.<br>
+&nbsp;&nbsp;🌱 I’m currently learning **Microservices** and **Go**. ☕<br>
+&nbsp;&nbsp;👯 I’m looking to collaborate on building projects with **.NET Web API** and **.NET MVC**.<br>
 
  ### ⚙️ Some Tool and Tech I use
  
-&nbsp;&nbsp;**Programming Language**: C#, JavaScript<br>
+&nbsp;&nbsp;**Programming Language**: C#, Go, JavaScript<br>
 &nbsp;&nbsp;**Patterns and Architectures**: N-Tier Architecture, Clean Architecture, Microservices, CQRS, Domain Driven Design<br>
 &nbsp;&nbsp;**Frameworks**: .NET Web API, .NET MVC, EF Core<br>
 &nbsp;&nbsp;**Database**: SQL Server, PostgreSQL, MongoDB, Redis<br>
