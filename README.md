@@ -27,9 +27,9 @@
 
 ### 💥 Working on
 
-<a href="https://github.com/mkaanerinc/DemoMicroservices">
+<a href="https://github.com/mkaanerinc/Core.Packages">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkaanerinc&repo=DemoMicroservices&show_owner=true&theme=react" alt="mkaanerinc's working on project"/>
 </a>
-<a href="https://github.com/mkaanerinc/learn_go">
+<a href="https://github.com/mkaanerinc/EventManagement">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkaanerinc&repo=learn_go&show_owner=true&theme=react" alt="mkaanerinc's working on project"/>
 </a>
