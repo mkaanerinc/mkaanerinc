@@ -17,13 +17,13 @@
  
 &nbsp;&nbsp;**Programming Language**: C#, Go, JavaScript<br>
 &nbsp;&nbsp;**Architectures & Patterns**: Clean Architecture, Microservices, CQRS<br>
-&nbsp;&nbsp;**Frameworks / Platforms**: .NET Web API, .NET MVC, EF Core<br>
-&nbsp;&nbsp;**Databases / Storage**: SQL Server, Redis<br>
-&nbsp;&nbsp;**Authentication / Authorization**: JWT<br>
-&nbsp;&nbsp;**Messaging / Communication**: RabbitMQ, SignalR<br>
-&nbsp;&nbsp;**Containerization / Orchestration**: Docker<br>
+&nbsp;&nbsp;**Frameworks**: .NET Web API, .NET MVC, EF Core<br>
+&nbsp;&nbsp;**Databases & Storage**: SQL Server, Redis<br>
+&nbsp;&nbsp;**Authentication & Authorization**: JWT<br>
+&nbsp;&nbsp;**Messaging & Communication**: RabbitMQ, SignalR<br>
+&nbsp;&nbsp;**Containerization & Orchestration**: Docker<br>
 &nbsp;&nbsp;**API Gateway**: Ocelot<br>
-&nbsp;&nbsp;**Libraries / Tools**: MediatR, Hangfire, xUnit, FluentValidation, AutoMapper, Serilog<br>
+&nbsp;&nbsp;**Libraries & Tools**: MediatR, Hangfire, xUnit, FluentValidation, AutoMapper, Serilog<br>
 
 ### 💥 Working on
 
